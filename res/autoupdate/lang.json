@@ -1,0 +1,13 @@
+{
+  "au_checkupdate": "检查资源更新",
+  "au_update": "更新",
+  "reserr_0": "文件IO错误",
+  "reserr_1_0": "下载网络错误",
+  "reserr_1_1": "没找到下载文件, 可能资源未同步完成",
+  "reserr_2": "文件校验错误",
+  "reserr_3": "文件解压错误",
+  "alert_title": "错误提示",
+  "alert_retry": "重试",
+  "gwerr_net": "网络连接失败",
+  "gwerr_json": "远程文件格式错误"
+}

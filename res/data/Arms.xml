@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<t xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<r>
+		<ID>1</ID>
+		<Name>英雄</Name>
+		<Desc>(NULL)</Desc>
+        <SImg>0</SImg>
+        <Abil1>1</Abil1>
+        <Abil2>1</Abil2>
+        <Abil3>1</Abil3>
+        <Abil4>1</Abil4>
+        <Abil5>1</Abil5>
+        <AbilHP>1</AbilHP>
+        <AbilMP>1</AbilMP>
+	</r>
+    <r>
+        <ID>2</ID>
+        <Name>平民</Name>
+        <Desc>(NULL)</Desc>
+        <SImg>0</SImg>
+        <Abil1>1</Abil1>
+        <Abil2>1</Abil2>
+        <Abil3>1</Abil3>
+        <Abil4>1</Abil4>
+        <Abil5>1</Abil5>
+        <AbilHP>1</AbilHP>
+        <AbilMP>0</AbilMP>
+    </r>
+</t>
